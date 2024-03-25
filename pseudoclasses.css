@@ -1,0 +1,157 @@
+.titulo {
+    transition: all 600ms ease-in-out;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo:hover{
+    color: #3b657a;
+    font-size: 30pt;
+    
+}
+
+div.gallery1 {
+    border: 1px solid #ccc;
+    width: 302px;
+    transition: all 600ms ease-in-out;
+    overflow: hidden;
+    float: left;
+    margin: 0px 5px 0px 5px;
+}
+
+
+div.gallery1:not(:hover) {
+    width: 152px;
+}
+
+
+div.gallery2 {
+  border: 1px solid #ccc;
+  width: 302px;
+  transition: all 600ms ease-in-out;
+  overflow: hidden;
+  float: left;
+  margin: 0px 5px 0px 5px;
+}
+
+div.gallery2:not(:hover) {
+  width: 152px;
+}
+
+
+div.gallery3 {
+  border: 1px solid #ccc;
+  width: 302px;
+  transition: all 600ms ease-in-out;
+  overflow: hidden;
+  float: left;
+  margin: 0px 5px 0px 5px;
+}
+
+div.gallery3:not(:hover) {
+  width: 152px;
+}
+
+div.gallery4 {
+  border: 1px solid #ccc;
+  width: 302px;
+  transition: all 600ms ease-in-out;
+  overflow: hidden;
+  float: left;
+  margin: 0px 5px 0px 5px; 
+}
+
+div.gallery4:not(:hover) {
+  width: 152px;
+}
+
+div.gallery1:hover {
+    border: 1px solid #777;
+  }
+
+div.gallery2:hover {
+    border: 1px solid #777;
+  }
+
+div.gallery3:hover {
+    border: 1px solid #777;
+  }
+
+div.gallery4:hover {
+    border: 1px solid #777;
+  }
+
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+  color: aliceblue;
+} 
+
+body {
+    background-color: #3a5f6f
+}
+
+li {
+    color: rgb(255, 255, 255);
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: #004153;
+  }
+
+input[type=texto] {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.desc {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ 
+
+
+
+
+  
+
